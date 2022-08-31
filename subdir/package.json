@@ -1,0 +1,6 @@
+{
+  "name": "subdir",
+  "scripts": {
+    "hello": "echo hello from subdir"
+  }
+}
