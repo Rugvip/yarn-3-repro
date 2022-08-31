@@ -1,0 +1,9 @@
+{
+  "name": "yarn-3-repro",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:Rugvip/yarn-3-repro.git",
+  "author": "Patrik Oldsberg <poldsberg@gmail.com>",
+  "license": "MIT",
+  "packageManager": "yarn@3.2.3"
+}
